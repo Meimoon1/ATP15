@@ -17,7 +17,13 @@ public class Atp15{
         System.out.println("---------Pessoa 1---------");
         System.out.println("Nome: "+p1.nome);
         System.out.println("Sobrenome :"+p1.sobrenome);
-        System.out.println("Idadade: "+p2.idade);
+        System.out.println("Idadade: "+p1.idade);
+
+          //Imprimindo Segunda pessoa
+          System.out.println("---------Pessoa 2---------");
+          System.out.println("Nome: "+p2.nome);
+          System.out.println("Sobrenome :"+p2.sobrenome);
+          System.out.println("Idadade: "+p2.idade);
 
         
         
